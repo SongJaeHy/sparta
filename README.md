@@ -5,4 +5,4 @@
 <h3>처음</h3>
 <p>처음에는 어떻게 만들어야 하는지 몰랐는데 기본부터 알려주시는 게 좋아서
 따라서 치다보니까 결과물이 나왔습니다.</p>
-결과물은: https://deokdam.spartacodingclub.kr/2MhYLhbv6oDB/index.html입니다.
+결과물은: https://deokdam.spartacodingclub.kr/2MhYLhbv6oDB/index.html 입니다.
